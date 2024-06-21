@@ -60,7 +60,6 @@ This project involves using AI and machine learning techniques to analyze and pr
 - **Modeling:** Building classification models to predict water quality.
 - **Evaluation:** Using metrics like accuracy, confusion matrix, and F1 score to evaluate model performance.
 
-<h1><b>Classification of Water Quality</b></h1>
 <h5>Name : Shaun Kwo Rui Yu</h5>
 
 <hr></hr>
@@ -136,8 +135,6 @@ Potential Features Influencing Water Quality:
 <h1><b>Regression for Predicting Hospitalisation Cost($)</b></h1>
 <h5>Name : Shaun Kwo Rui Yu</h5>
 
-<hr></hr>
-<h1>Regression Dataset for </h1>
 <hr></hr>
 
 <h5><b>The objectives of this assignment are to:</b></h5>
